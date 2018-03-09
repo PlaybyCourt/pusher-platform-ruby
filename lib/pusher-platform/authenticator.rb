@@ -1,7 +1,7 @@
 require 'jwt'
 require 'rack'
 
-module Pusher
+module PusherPlatform
   TOKEN_EXPIRY = 24*60*60
 
   class Authenticator

@@ -1,4 +1,4 @@
-module Pusher
+module PusherPlatform
   class ErrorResponse < Error
     attr_accessor :status, :headers, :description
 

@@ -3,7 +3,7 @@ require_relative './base_client'
 require_relative './common'
 require_relative './error_response'
 
-module Pusher
+module PusherPlatform
 
   HOST_BASE = 'pusherplatform.io'
 
