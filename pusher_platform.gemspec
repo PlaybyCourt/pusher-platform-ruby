@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
-  s.name        = 'pusher-platform'
-  s.version     = '0.6.0'
+  s.name        = 'pusher-platform-tmp'
+  s.version     = '0.6.1'
   s.licenses    = ['MIT']
   s.summary     = "Pusher Platform Ruby SDK"
   s.authors     = ["Pusher"]
-  s.email       = 'support@pusher.com'
+  s.email       = 'dev@playbycourt.com'
   s.files       = `git ls-files -- lib/*`.split("\n")
 
   s.add_runtime_dependency 'excon', '~> 0.54.0'
